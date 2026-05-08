@@ -1,5 +1,5 @@
 # CyberSec Ops Toolkit 2.0
- 
+
 ## Overview
 
 **What does your toolkit do?**
@@ -119,6 +119,4 @@ The toolkit is executed via the `main.py` entry point followed by a specific sub
 ---
 
 ## Ethical disclaimer
-> **Use only on your own devices / legal test environments.**#
- 
- 
+> **Use only on your own devices / legal test environments.**
