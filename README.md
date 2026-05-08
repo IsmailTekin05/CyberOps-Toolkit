@@ -119,8 +119,6 @@ The toolkit is executed via the `main.py` entry point followed by a specific sub
 ---
 
 ## Ethical disclaimer
-> **Use only on your own devices / legal test environments.**#   C y b e r O p s - T o o l k i t 
- 
- #   C y b e r O p s - T o o l k i t 
+> **Use only on your own devices / legal test environments.**#
  
  
